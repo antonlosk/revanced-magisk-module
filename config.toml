@@ -6,12 +6,6 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YTMusic]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-arch = "arm64-v8a"
-build-mode = "module"
-excluded-patches = "'GmsCore support' 'Spoof video streams'"
-
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
