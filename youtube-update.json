@@ -1,0 +1,6 @@
+{
+  "version": "v20.40.45 (patches rv/patches.jar)",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/antonlosk/revanced-magisk-module/releases/download/1/youtube-revanced-module-v20.40.45-all.zip",
+  "changelog": "https://raw.githubusercontent.com/antonlosk/revanced-magisk-module/update/build.md"
+}
