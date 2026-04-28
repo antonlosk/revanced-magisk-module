@@ -8,6 +8,9 @@ parallel-jobs = 1
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "antonlosk/RVP"
+integrations-source = "antonlosk/revanced-integrations"
+rv-brand = "antonlosk ReVanced"
 build-mode = "module"
 excluded-patches = "'GmsCore support'"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
