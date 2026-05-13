@@ -13,3 +13,12 @@ build-mode = "module"
 excluded-patches = "'GmsCore support'"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[GooglePhotos]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
+patches-source = "antonlosk/RVP"
+build-mode = "module"
+included-patches = "'Spoof features'"
+exclusive-patches = true
